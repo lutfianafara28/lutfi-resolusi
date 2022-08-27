@@ -2,11 +2,11 @@ rencana konten lutfi
 
 - Javascript
   *ES6 
-  *Frameworks Javascript 
-- PHP Frameworks
-  ^ Laravel
+  *Frameworks Javascript
    ^ Vue
    ^ React
+- PHP Frameworks
+  ^ Laravel
 - Struktur Data Dasar 
 - PHP Frameworks
    ^ Laravel
