@@ -1,6 +1,8 @@
 rencana konten lutfi
 
 - Javascript
+  *ES6 
+  *Frameworks Javascript
 - PHP Frameworks
 - Interview 
 - Vlogs
