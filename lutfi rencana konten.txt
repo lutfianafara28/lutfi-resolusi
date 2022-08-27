@@ -2,10 +2,14 @@ rencana konten lutfi
 
 - Javascript
   *ES6 
-  *Frameworks Javascript
-   ^ Angular
-   ^ React  
+  *Frameworks Javascript 
 - PHP Frameworks
   ^ Laravel
+   ^ Vue
+   ^ React
+- Struktur Data Dasar 
+- PHP Frameworks
+   ^ Laravel
 - Interview 
 - Vlogs
+- Python
