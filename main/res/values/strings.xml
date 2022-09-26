@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Project</string>
+    <string name="kertas_gunting_batu">kertas gunting batu</string>
+    <string name="com">com</string>
+    <string name="batu1">batu1</string>
+    <string name="kertas1">kertas1</string>
+    <string name="gunting1">gunting1</string>
+    <string name="batu2">batu2</string>
+    <string name="kertas2">kertas2</string>
+    <string name="gunting2">gunting2</string>
+    <string name="refresh">refresh</string>
+    <string name="vs">vs</string>
+    <string name="statusvs">VS</string>
+    <string name="VS">VS</string>
+    <string name="pemain1">pemain1</string>
+</resources>
